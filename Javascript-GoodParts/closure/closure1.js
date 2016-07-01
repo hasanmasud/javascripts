@@ -6,7 +6,7 @@
 	console.log(function2());
 }());
 //closure: Closure is special object which contains the environment in which it was created. 
-//In the below example fn3 nis a closure and it knows x because x was present at the time when the closure was created.
+//In the below example fn3 is a closure and it knows x because x was present at the time when the closure was created.
 function function3() {
 	var x = "Helo";
 	return function() {
