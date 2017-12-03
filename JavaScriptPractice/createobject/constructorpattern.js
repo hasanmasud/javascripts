@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * constructor pattern to create objects
  */

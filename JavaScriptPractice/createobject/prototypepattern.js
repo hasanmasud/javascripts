@@ -1,7 +1,9 @@
+"use strict";
 /**
  * prototype pattern to create instance
  */
-var personProto = function() {
+var perso
+nProto = function() {
 };
 // create the prototype space
 personProto.prototype.age = 0;

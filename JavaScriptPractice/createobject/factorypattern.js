@@ -1,3 +1,4 @@
+"use strict";
 /**
  * factory pattern for creating objects
  */

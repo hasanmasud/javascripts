@@ -1,3 +1,4 @@
+"use strict";
 /**
  * dynamic prototype to create objects
  */
